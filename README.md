@@ -4,7 +4,9 @@
 <hr>
 <h3>Skills</h3>
    <ul>
-      <li>React</li>
+      <li>Node.Js</li>
+      <li>Redux</li>
+      <li>React.Js</li>
       <li>JavaScript</li>
       <li>GSAP</li>
       <li>Figma</li>
