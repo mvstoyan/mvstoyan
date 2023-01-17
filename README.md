@@ -8,7 +8,6 @@
       <li>Redux</li>
       <li>React.Js</li>
       <li>JavaScript</li>
-      <li>jQuery</li>
       <li>GSAP</li>
       <li>Figma</li>
       <li>Bootstrap 5</li>
