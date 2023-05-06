@@ -14,7 +14,6 @@
       <li>Bootstrap 5</li>
       <li>HTML 5/ CSS 3</li>
    </ul>
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mvstoyan&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
    <hr>
 <h3>Contact</h3>
