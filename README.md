@@ -1,38 +1,58 @@
-<h1 align="center">Hi! I'm <a href="https://portfolio-mvstoyan-2021-2022.netlify.app" target="_blank">Marina</a></h1>
-<p align="center">Front-End Web Developer from Arlington, VA</p>
+<h1 align="center">Hi! I'm <a href="https://portfolio-2021-2023.netlify.app" target="_blank">Marina</a></h1>
 
+A former travel guide, now a full-stack developer based in Arlington, VA, I have a passion for programming languages, a love for problem-solving, and the ability to effectively communicate with both people and computers. I am a lifelong learner and an inquisitive programmer!
+
+- 🌱  I’m currently learning AWS, Node and Redux.
+- 💬  Ask me anything about full stack web development.
+- ⚡  Fun fact: I'm an Instagram blogger and have lived in 11 countries.
 <hr>
-<h3>Skills</h3>
-   <ul>
-      <li>Node.Js</li>
-      <li>Redux</li>
-      <li>React.Js</li>
-      <li>JavaScript</li>
-      <li>jQuery</li>
-      <li>GSAP</li>
-      <li>Figma</li>
-      <li>Bootstrap 5</li>
-      <li>HTML 5/ CSS 3</li>
-   </ul>
 
-   <hr>
-<h3>Contact</h3>
-   <ul>
-      <li><a href="https://www.linkedin.com/in/marina-tilton-9172b0227/" target="_blank">Linkedin</a></li>
-      <li><a href="mailto:m.v.stoyan@gmail.com" target="_blank">Email</a></li>
-   </ul>
+## Skills and Technologies:
+<p>
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat" />
+  <img alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white" />
+  <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=flat" />
+  <img alt="Redux" src="https://img.shields.io/badge/Redux-764BC?logo=redux&logoColor=white&style=flat" />
+  <img alt="Jest" src="https://img.shields.io/badge/Jest-323330?logo=Jest&logoColor=white" />
+  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=sqlite&logoColor=white&style=flat" />
+  <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=flat" />
+  <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=flat" />
+  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat" />
+  <img alt="Bash Scripting" src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white&style=flat" />
+  <img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?logo=jquery&logoColor=white" />
+  <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?logo=Jira&logoColor=white" />
+  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" />
+  <img alt="GitHub-Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white" />
+  <img alt="chai.js" src="https://img.shields.io/badge/chai.js-323330?logo=chai&logoColor=red" />
+  <img alt="mocha.js" src="https://img.shields.io/badge/mocha.js-323330?logo=mocha&logoColor=Brown" />
+  <img alt="JWT" src="https://img.shields.io/badge/json%20web%20tokens-323330?logo=json-web-tokens&logoColor=pink" />
+  <img alt="React-Router" src="https://img.shields.io/badge/React_Router-CA4245?logo=react-router&logoColor=white" />
+  <img alt="styled-components" src="https://img.shields.io/badge/styled--components-DB7093?logo=styled-components&logoColor=white" />
+  <img alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?logo=postgresql&logoColor=white" />
+  <img alt="Render" src="https://img.shields.io/badge/Render-%46E3B7.svg?logo=render&logoColor=white" />
+  <img alt="ChatGPT" src="https://img.shields.io/badge/chatGPT-74aa9c?logo=openai&logoColor=white" />
+  <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white" />
+  <img alt="Glitch" src="https://img.shields.io/badge/Glitch-2800ff?logo=glitch&logoColor=white" />
+  <img alt="Stripe" src="https://img.shields.io/badge/Stripe-626CD9?logo=Stripe&logoColor=white" />
+  <img alt="Airflow" src="https://img.shields.io/badge/Airflow-017CEE?logo=Apache%20Airflow&logoColor=white" />
+  <img alt="prettier" src="https://img.shields.io/badge/prettier-1A2C34?logo=prettier&logoColor=F7BA3E" />
+  <img alt="eslint" src="https://img.shields.io/badge/eslint-3A33D1?logo=eslint&logoColor=white" />
+  <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?logo=visual%20studio%20code&logoColor=white" />
+  <img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white" />
+</p>
 
 <!--
-**mvstoyan/mvstoyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mvstoyan&layout=compact&langs_count=10&theme=tokyonight&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)    -->
 
-Here are some ideas to get you started:
+   <hr>
+   
+## Contact me:
+<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marina-tilton-9172b0227/" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Check out my deployed projects:
+[Frontent E-commerce||React&Redux](https://silkland-store.netlify.app/) | 
+[Backend E-commerce||Node&Express](https://e-commerce-silkland.onrender.com/) |
+[Backend Practice for CTD||Node&Express](https://github.com/Code-the-Dream-School/dd-prac-team4-back)
+
