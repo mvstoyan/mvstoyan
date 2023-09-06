@@ -39,8 +39,16 @@ A former travel guide, now a full-stack developer based in Arlington, VA, I have
   <img alt="Airflow" src="https://img.shields.io/badge/Airflow-017CEE?logo=Apache%20Airflow&logoColor=white" />
   <img alt="prettier" src="https://img.shields.io/badge/prettier-1A2C34?logo=prettier&logoColor=F7BA3E" />
   <img alt="eslint" src="https://img.shields.io/badge/eslint-3A33D1?logo=eslint&logoColor=white" />
-  <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?logo=visual%20studio%20code&logoColor=white" />
+  <img alt="VS Code" src="https://img.shields.io/badge/VSCode-0078D4?logo=visual%20studio%20code&logoColor=white" />
   <img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white" />
+  <img alt="GIT" src="https://img.shields.io/badge/GIT-E44C30?logo=git&logoColor=white" />
+  <img alt="json" src="https://img.shields.io/badge/json-5E5C5C?logo=json&logoColor=white" />
+  <img alt="Webpack" src="https://img.shields.io/badge/Webpack-8DD6F9?logo=Webpack&logoColor=white" />
+  <img alt="Swagger" src="https://img.shields.io/badge/Swagger-85EA2D?logo=Swagger&logoColor=white" />
+  <img alt="Socket.io" src="https://img.shields.io/badge/Socket.io-010101?logo=Socket.io&logoColor=white" />
+  <img alt="npm" src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white" />
+  <img alt="GitKraken" src="https://img.shields.io/badge/GitKraken-179287?logo=GitKraken&logoColor=white" />
+  <img alt="axios" src="https://img.shields.io/badge/axios-671ddf?logo=axios&logoColor=white" />
 </p>
 
 <!--
