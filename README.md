@@ -27,10 +27,11 @@ A former travel guide, now a full-stack developer based in Arlington, VA, I have
   <img alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?logo=postgresql&logoColor=white" />
   <img alt="Swagger" src="https://img.shields.io/badge/Swagger-85EA2D?logo=Swagger&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/Webpack-8DD6F9?logo=Webpack&logoColor=white" />
-
-  <!---
   <img alt="JWT" src="https://img.shields.io/badge/json%20web%20tokens-323330?logo=json-web-tokens&logoColor=pink" />
   <img alt="React-Router" src="https://img.shields.io/badge/React_Router-CA4245?logo=react-router&logoColor=white" />
+  <img alt="axios" src="https://img.shields.io/badge/axios-671ddf?logo=axios&logoColor=white" />
+
+  <!---
   <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?logo=Jira&logoColor=white" />
   <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" />
   <img alt="Render" src="https://img.shields.io/badge/Render-%46E3B7.svg?logo=render&logoColor=white" />
@@ -38,11 +39,9 @@ A former travel guide, now a full-stack developer based in Arlington, VA, I have
   <img alt="Glitch" src="https://img.shields.io/badge/Glitch-2800ff?logo=glitch&logoColor=white" />
   <img alt="Stripe" src="https://img.shields.io/badge/Stripe-626CD9?logo=Stripe&logoColor=white" />
   <img alt="Bash Scripting" src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white&style=flat" />
-  <img alt="ChatGPT" src="https://img.shields.io/badge/chatGPT-74aa9c?logo=openai&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white" />
   <img alt="GitHub-Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white" />
   <img alt="GitKraken" src="https://img.shields.io/badge/GitKraken-179287?logo=GitKraken&logoColor=white" />
-  <img alt="axios" src="https://img.shields.io/badge/axios-671ddf?logo=axios&logoColor=white" />
   <img alt="Airflow" src="https://img.shields.io/badge/Airflow-017CEE?logo=Apache%20Airflow&logoColor=white" />
   <img alt="prettier" src="https://img.shields.io/badge/prettier-1A2C34?logo=prettier&logoColor=F7BA3E" />
   <img alt="eslint" src="https://img.shields.io/badge/eslint-3A33D1?logo=eslint&logoColor=white" />
@@ -59,7 +58,7 @@ A former travel guide, now a full-stack developer based in Arlington, VA, I have
    <hr>
    
 ## Contact me:
-<a href="https://www.linkedin.com/in/marina-tilton-9172b0227/">
+<a href="https://www.linkedin.com/in/marina-tilton-9172b0227/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
