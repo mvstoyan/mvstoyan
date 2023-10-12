@@ -59,7 +59,9 @@ A former travel guide, now a full-stack developer based in Arlington, VA, I have
    <hr>
    
 ## Contact me:
-<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marina-tilton-9172b0227/" />
+<a href="https://www.linkedin.com/in/marina-tilton-9172b0227/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 ## Check out my deployed projects:
 [Frontent E-commerce||React&Redux](https://silkland-store.netlify.app/) | 
