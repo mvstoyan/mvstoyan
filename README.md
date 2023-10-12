@@ -58,7 +58,7 @@ A former travel guide, now a full-stack developer based in Arlington, VA, I have
    <hr>
    
 ## Contact me:
-<a href="https://www.linkedin.com/in/marina-tilton-9172b0227/" target="_blank">
+<a href="https://www.linkedin.com/in/marina-tilton-9172b0227/" target="_blank" rel="noopener">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
