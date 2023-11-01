@@ -1,6 +1,6 @@
 <h1 align="center">Hi! I'm <a href="https://portfolio-2021-2023.netlify.app" target="_blank">Marina</a></h1>
 
-A former travel guide, now a full-stack developer based in Arlington, VA, I have a passion for programming languages, a love for problem-solving, and the ability to effectively communicate with both people and computers. I am a lifelong learner and an inquisitive programmer!
+Full-stack developer based in Arlington, VA, I have a passion for programming languages, a love for problem-solving, and the ability to effectively communicate with both people and computers. I am a lifelong learner and an inquisitive programmer!
 
 - 🌱  I’m currently learning AWS and Node.
 - ⚡  Fun fact:  I have lived in 11 countries and dream of going to the Arctic on an icebreaker. 🌊❄️🐧.
