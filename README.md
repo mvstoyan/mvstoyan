@@ -2,8 +2,8 @@
 
 Full-stack developer based in Arlington, VA, I have a passion for programming languages, a love for problem-solving, and the ability to effectively communicate with both people and computers. I am a lifelong learner and an inquisitive programmer!
 
-- 🌱  I’m currently learning AWS and Node.
-- ⚡  Fun fact:  I have lived in 11 countries and dream of going to the Arctic on an icebreaker. 🌊❄️🐧.
+<!--- 🌱  I’m currently learning AWS and Node.
+- ⚡  Fun fact:  I have lived in 11 countries and dream of going to the Arctic on an icebreaker. 🌊❄️🐧.  --->
 <hr>
 
 ## Skills and Technologies:
@@ -24,15 +24,14 @@ Full-stack developer based in Arlington, VA, I have a passion for programming la
   <img alt="mocha.js" src="https://img.shields.io/badge/mocha.js-323330?logo=mocha&logoColor=Brown" />
   <img alt="styled-components" src="https://img.shields.io/badge/styled--components-DB7093?logo=styled-components&logoColor=white" />
   <img alt="Socket.io" src="https://img.shields.io/badge/Socket.io-010101?logo=Socket.io&logoColor=white" />
-  <img alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?logo=postgresql&logoColor=white" />
   <img alt="Swagger" src="https://img.shields.io/badge/Swagger-85EA2D?logo=Swagger&logoColor=white" />
-  <img alt="Webpack" src="https://img.shields.io/badge/Webpack-8DD6F9?logo=Webpack&logoColor=white" />
+  <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?logo=Jira&logoColor=white" />
   <img alt="JWT" src="https://img.shields.io/badge/json%20web%20tokens-323330?logo=json-web-tokens&logoColor=pink" />
   <img alt="React-Router" src="https://img.shields.io/badge/React_Router-CA4245?logo=react-router&logoColor=white" />
   <img alt="axios" src="https://img.shields.io/badge/axios-671ddf?logo=axios&logoColor=white" />
 
   <!---
-  <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?logo=Jira&logoColor=white" />
+  <img alt="Webpack" src="https://img.shields.io/badge/Webpack-8DD6F9?logo=Webpack&logoColor=white" />
   <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" />
   <img alt="Render" src="https://img.shields.io/badge/Render-%46E3B7.svg?logo=render&logoColor=white" />
   <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white" />
