@@ -12,6 +12,7 @@ Full-stack developer based in Arlington, VA, I have a passion for programming la
   <img alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white" />
   <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB" />
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?slogo=postgresql&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=flat" />
   <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?logo=redux&logoColor=white" />
   <img alt="Jest" src="https://img.shields.io/badge/Jest-323330?logo=Jest&logoColor=white" />
@@ -29,17 +30,17 @@ Full-stack developer based in Arlington, VA, I have a passion for programming la
   <img alt="JWT" src="https://img.shields.io/badge/json%20web%20tokens-323330?logo=json-web-tokens&logoColor=pink" />
   <img alt="React-Router" src="https://img.shields.io/badge/React_Router-CA4245?logo=react-router&logoColor=white" />
   <img alt="axios" src="https://img.shields.io/badge/axios-671ddf?logo=axios&logoColor=white" />
+  <img alt="GitHub-Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white" />
+  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" />
 
   <!---
   <img alt="Webpack" src="https://img.shields.io/badge/Webpack-8DD6F9?logo=Webpack&logoColor=white" />
-  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" />
   <img alt="Render" src="https://img.shields.io/badge/Render-%46E3B7.svg?logo=render&logoColor=white" />
   <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white" />
   <img alt="Glitch" src="https://img.shields.io/badge/Glitch-2800ff?logo=glitch&logoColor=white" />
   <img alt="Stripe" src="https://img.shields.io/badge/Stripe-626CD9?logo=Stripe&logoColor=white" />
   <img alt="Bash Scripting" src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white&style=flat" />
   <img alt="npm" src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white" />
-  <img alt="GitHub-Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white" />
   <img alt="GitKraken" src="https://img.shields.io/badge/GitKraken-179287?logo=GitKraken&logoColor=white" />
   <img alt="Airflow" src="https://img.shields.io/badge/Airflow-017CEE?logo=Apache%20Airflow&logoColor=white" />
   <img alt="prettier" src="https://img.shields.io/badge/prettier-1A2C34?logo=prettier&logoColor=F7BA3E" />
@@ -48,6 +49,8 @@ Full-stack developer based in Arlington, VA, I have a passion for programming la
   <img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white" />
   <img alt="GIT" src="https://img.shields.io/badge/GIT-E44C30?logo=git&logoColor=white" />
   <img alt="json" src="https://img.shields.io/badge/json-5E5C5C?logo=json&logoColor=white" />
+
+  https://github.com/alexandresanlim/Badges4-README.md-Profile#-database-
   --->
 </p>
 
