@@ -32,6 +32,10 @@ Full-stack developer based in Arlington, VA, I have a passion for programming la
   <img alt="axios" src="https://img.shields.io/badge/axios-671ddf?logo=axios&logoColor=white" />
   <img alt="GitHub-Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white" />
   <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?logo=docker&logoColor=white" />
+  <img alt="GraphQl" src="https://img.shields.io/badge/GraphQl-E10098?logo=graphql&logoColor=white" />
+  <img alt="Firebase" src="https://img.shields.io/badge/firebase-ffca28?logo=firebase&logoColor=black" />
+  <img alt="Nest.js" src="https://img.shields.io/badge/next%20js-000000?logo=nextdotjs&logoColor=white" />
 
   <!---
   <img alt="Webpack" src="https://img.shields.io/badge/Webpack-8DD6F9?logo=Webpack&logoColor=white" />
