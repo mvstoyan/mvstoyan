@@ -15,12 +15,14 @@ Full-stack developer based in Arlington, VA, I have a passion for programming la
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?slogo=postgresql&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=flat" />
   <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?logo=redux&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?logo=docker&logoColor=white" />
+  <img alt="GraphQl" src="https://img.shields.io/badge/GraphQl-E10098?logo=graphql&logoColor=white" />
+  <img alt="Firebase" src="https://img.shields.io/badge/firebase-ffca28?logo=firebase&logoColor=black" />
+  <img alt="Nest.js" src="https://img.shields.io/badge/next%20js-000000?logo=nextdotjs&logoColor=white" />
   <img alt="Jest" src="https://img.shields.io/badge/Jest-323330?logo=Jest&logoColor=white" />
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=sqlite&logoColor=white&style=flat" />
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=flat" />
   <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=flat" />
-  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat" />
-  <img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?logo=jquery&logoColor=white" />
   <img alt="chai.js" src="https://img.shields.io/badge/chai.js-323330?logo=chai&logoColor=red" />
   <img alt="mocha.js" src="https://img.shields.io/badge/mocha.js-323330?logo=mocha&logoColor=Brown" />
   <img alt="styled-components" src="https://img.shields.io/badge/styled--components-DB7093?logo=styled-components&logoColor=white" />
@@ -32,10 +34,6 @@ Full-stack developer based in Arlington, VA, I have a passion for programming la
   <img alt="axios" src="https://img.shields.io/badge/axios-671ddf?logo=axios&logoColor=white" />
   <img alt="GitHub-Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white" />
   <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?logo=docker&logoColor=white" />
-  <img alt="GraphQl" src="https://img.shields.io/badge/GraphQl-E10098?logo=graphql&logoColor=white" />
-  <img alt="Firebase" src="https://img.shields.io/badge/firebase-ffca28?logo=firebase&logoColor=black" />
-  <img alt="Nest.js" src="https://img.shields.io/badge/next%20js-000000?logo=nextdotjs&logoColor=white" />
 
   <!---
   <img alt="Webpack" src="https://img.shields.io/badge/Webpack-8DD6F9?logo=Webpack&logoColor=white" />
@@ -53,6 +51,8 @@ Full-stack developer based in Arlington, VA, I have a passion for programming la
   <img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white" />
   <img alt="GIT" src="https://img.shields.io/badge/GIT-E44C30?logo=git&logoColor=white" />
   <img alt="json" src="https://img.shields.io/badge/json-5E5C5C?logo=json&logoColor=white" />
+  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat" />
+  <img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?logo=jquery&logoColor=white" />
 
   https://github.com/alexandresanlim/Badges4-README.md-Profile#-database-
   --->
@@ -71,5 +71,6 @@ Full-stack developer based in Arlington, VA, I have a passion for programming la
 ## Check out my deployed projects:
 [Frontent E-commerce||React&Redux](https://silkland-store.netlify.app/) | 
 [Backend E-commerce||Node&Express](https://e-commerce-silkland.onrender.com/) |
-[Backend Practice for CTD||Node&Express](https://github.com/Code-the-Dream-School/dd-prac-team4-back)
+[Frontent Practice for CTD||React&Redux](https://github.com/Code-the-Dream-School/dd-prac-team4-front) |
+[Backend Practice for CTD||Node&Express](https://github.com/Code-the-Dream-School/dd-prac-team4-back) 
 
